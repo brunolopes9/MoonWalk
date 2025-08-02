@@ -16,20 +16,35 @@ Ideal for those who want to learn or showcase modern web development techniques 
 
 
 ├── gfx/
+
 │ ├── png/ # Social media icons
+
 │ ├── grunticon.loader.js
+
 │ └── icons.*.css # Icon fallback (SVG/PNG)
+
 ├── images/
+
 │ ├── mainpromo/ # Main slider images
+
 │ ├── experience/ # Experience images
+
 │ └── testimonials/ # Testimonial images
+
 ├── JS/
+
 │ ├── libs/ # jQuery + FlexSlider + Flexibility
+
 │ ├── script.js # Image manipulation (srcset/sizes)
+
 │ ├── flexslider.js # Initialization of sliders
+
 │ └── menu-toggle.js # Accessible drop-down menu
+
 ├── style-main.css # Main style
+
 ├── index.html # Main page
+
 └── favicon.ico
 
 ## 🔧 Tech Used 
