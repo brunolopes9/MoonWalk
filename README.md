@@ -61,5 +61,3 @@ Ideal for those who want to learn or showcase modern web development techniques 
 https://brunolopes9.github.io/MoonWalk/
 
 ---
-
-Se quiser que eu já insira o link real quando tiver o GitHub Pages ativo, basta mandar o URL. Poss
